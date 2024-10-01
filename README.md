@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy Manuel, Soy un apasionado desarrollador web FullStack. Mi enfoque versátil me permite crear aplicaciones web dinámicas y atractivas, desde la concepción inicial hasta la implementación final. Estoy constantemente buscando nuevas oportunidades para expandir mis habilidades y enfrentar desafíos creativos en el campo del desarrollo web. Mi dedicación a la excelencia y mi capacidad para trabajar en equipo me han permitido colaborar en proyectos diversos y emocionantes. Estoy emocionado por la posibilidad de seguir creciendo profesionalmente y contribuir al mundo digital con mis conocimientos y experiencia.
 
-Cuento con experiencia tecnica y personal en las siguientes tecnologias:
+Cuento con experiencia laboral, tecnica y personal en las siguientes tecnologias:
 <ul>
   <li>JavaScript</li>
   <li>PHP</li>
