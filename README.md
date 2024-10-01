@@ -3,17 +3,19 @@
 Cuento con experiencia tecnica y personal en las siguientes tecnologias:
 <ul>
   <li>JavaScript</li>
+  <li>PHP</li>
   <li>TypeScript</li>
   <li>React</li>
+  <li>Redux</li>
   <li>Node.js</li>
   <li>Express</li>
+  <li>Sequelize</li>
   <li>PostgreSQL</li>
   <li>MongoDB</li>
-  <li>Redux</li>
+  <li>MySQL</li>
+  <li>SQL Server</li>
   <li>Git</li>
   <li>GitHub</li>
-  <li>MySQL</li>
-  <li>Sequelize</li>
 </ul>
 
 Me emociona todo lo que me espera por delante y siempre estoy dispuesto a escuchar propuestas!
